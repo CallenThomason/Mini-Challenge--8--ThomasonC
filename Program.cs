@@ -4,8 +4,8 @@ Mini Challenge # 8 - Add 2 Numbers & Greater Than Or Less Than Validation
 I took my mini challenge 2 and 4 and added validation using a series of do while and while loops.
 Also took out the ToInt32 lines and replaced them with TryParse for a more robust program. 
 
-Peer Review name: 
-Review: 
+Peer Review name: Valery Lot
+Review: Flow chart looks good and connected the 2 challenges together, I didn't think to do that. The decision boxes are missing the true or false on each side. Code works as intended, look clean, has good notes telling us what we expect the code to do. I like the way you did the if else statement and combined both statements for each condition.
 include a png of flowchart
 */
 Console.Clear(); 

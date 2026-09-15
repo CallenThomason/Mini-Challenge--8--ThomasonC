@@ -8,11 +8,11 @@ Peer Review name:
 Review: 
 include a png of flowchart
 */
-
-
+Console.Clear(); 
+Console.WriteLine("------------Add Two Numbers-------------"); 
 string ans = ""; 
 do{
-Console.Clear(); 
+
 Console.Write("Input a number: ");
 string num1 = Console.ReadLine();
 int newNum1; //converts the strings to int 
@@ -55,7 +55,7 @@ while(ans != "Y" && ans != "N")
 
 
 //---------------END OF ADD TWO NUMBERS------------//
-
+Console.WriteLine("------------Greater than or less Than-------------"); 
 string answer = "Y";
 
 do{

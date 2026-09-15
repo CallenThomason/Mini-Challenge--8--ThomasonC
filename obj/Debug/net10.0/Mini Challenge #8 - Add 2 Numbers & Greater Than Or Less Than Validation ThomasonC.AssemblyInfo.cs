@@ -14,7 +14,7 @@ using System.Reflection;
     "C"))]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f21ea6567d4b2f1b7059b0d23cde1b71a16af97")]
 [assembly: System.Reflection.AssemblyProductAttribute(("Mini Challenge #8 - Add 2 Numbers & Greater Than Or Less Than Validation Thomason" +
     "C"))]
 [assembly: System.Reflection.AssemblyTitleAttribute(("Mini Challenge #8 - Add 2 Numbers & Greater Than Or Less Than Validation Thomason" +

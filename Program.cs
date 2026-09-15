@@ -1,5 +1,6 @@
 ﻿/* 
 Callen Thomason
+9/15/2026
 Mini Challenge # 8 - Add 2 Numbers & Greater Than Or Less Than Validation
 I took my mini challenge 2 and 4 and added validation using a series of do while and while loops.
 Also took out the ToInt32 lines and replaced them with TryParse for a more robust program. 
